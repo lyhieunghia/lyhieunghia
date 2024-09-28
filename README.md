@@ -2,6 +2,5 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java, C++
 
-- 📫 How to reach me: 
-
+- 📫 Contact me at: nghiasd2020@gmail.com
 
